@@ -1,4 +1,4 @@
-//global variable declaration -- 2019
+//global variable declaration -- 2019 date
 var tests;
 var currentTestID;
 var currentTestRowCount;
